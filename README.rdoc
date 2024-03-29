@@ -1,3 +1,9 @@
+= Completed Ruby Koans
+
+These are completed ruby koans, including the extra credit. These came from here: https://github.com/edgecase/ruby_koans
+
+Below is the original README.
+
 = Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
